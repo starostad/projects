@@ -19,3 +19,5 @@ version:          0.0.0
 
 github:
   repo:           https://github.com/uwescience/DSSG-website-template/
+
+theme: jekyll-theme-cayman
