@@ -16,3 +16,5 @@ layout: default
 **DSSG Fellows:** 
 
 # Abstract or executive summary
+
+![](census_worker.jpg "Census Worker 1920s")
